@@ -19,9 +19,9 @@ A web-based platform that provides citizens with detailed information about gove
 
 Frontend: HTML, CSS, JavaScript
 
-Backend (if used): PHP / Node.js / Flask (replace with what you used)
+Backend : Node.js and Flask 
 
-Database (if used): MySQL / SQLite (if you added one)
+Database : MySQL 
 
 Version Control: Git, GitHub
 
